@@ -6,6 +6,6 @@
   "author": "xmasuhai <xmasuhai@163.com>",
   "license": "MIT",
   "scripts": {
-  "play": "parcel index.html"
+  "play": "parcel src/index.html"
   }
 }

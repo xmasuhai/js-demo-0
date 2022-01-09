@@ -1,0 +1,24 @@
+$red: #f00;
+$yellowgreen: #9acd32;
+$lightcoral: #f08080;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  border: 1px solid $yellowgreen;
+  height: 100vh;
+}
+
+.demo {
+  background-color: $lightcoral;
+  border: 1px solid $red;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
